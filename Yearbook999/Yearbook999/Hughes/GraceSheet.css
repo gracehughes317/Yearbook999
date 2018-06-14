@@ -1,14 +1,23 @@
 ﻿body {
-	background-color: linen;
+	background-color: white;
 }
 
 #cont {
-	font: 100px arial, sans-serif;
+	font: 100px impact;
+	padding: 10px;
 }
 
 
+#CaptainsCoaches {
+	
+	
+	
+}
 .capNcoach {
-	font: 30px arial, sans-serif;
+	font: 50px impact;
 }
-#bigEmma {
-float:left;}
+.row {
+	font: 20px georgia, sans-serif;
+	padding: 15px;
+}
+
