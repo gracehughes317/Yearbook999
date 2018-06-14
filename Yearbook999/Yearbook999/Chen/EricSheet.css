@@ -1,2 +1,30 @@
 ﻿body {
 }
+
+h1 {
+    color: #006994;
+    text-transform: uppercase;
+
+}
+h2 {
+    font: 3.5em;
+}
+h3 {
+    font: 5em;
+}
+#main-text {
+    background-color: rgba(218, 218, 250, 0.81);
+    font: 14px;
+    position: absolute;
+    text-align: justify;
+}
+
+#picture {
+    width: 500px;
+    height: 900px;
+}
+
+#emma {
+    float: right;
+}
+}
