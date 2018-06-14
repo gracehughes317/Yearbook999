@@ -1,28 +1,60 @@
 ﻿#top {
     width: 800px;
     margin: auto;
-    border-style: solid;
-    border-width: 1px;
-    height: 1000px;
+    height: 950px;
 }
 #topLeft {
-    width: 49%;
+    width: 35%;
     float: left;
-    border-style: solid;
-    border-width: 1px;
     height: 100%;
 }
 #topRight {
-    width: 49%;
+    width: 65%;
     float: right;
-    border-style: solid;
-    border-width: 1px;
     height: 100%;
 }
 #specialText {
     width: 100%;
-    height: 300px;
+    height: 100px;
     margin: auto;
-    align-content: center;
-
 }
+#specialTextText {
+    float: right;
+}
+#firstText {
+    font-family: 'Trebuchet MS';
+    text-align: left;
+    font-size: 12px;
+}
+#bottom {
+    width: 1000px;
+    margin: auto;
+    height: 500px;
+    border-style: solid;
+    border-width: 1px;
+}
+#bottomTop {
+    width: 100%;
+    height: 150px;
+}
+#bottomBot {
+    height: 350px;
+    width: 100%;
+}
+#pageName {
+    background-image: url("page14images/bottomText.PNG");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+    border-style: solid;
+    border-width: 1px;
+}
+#lastPic {
+    background-image: url("page14images/IMG_0715.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 300px;
+    border-style: solid;
+    border-width: 1px;
+}
+
