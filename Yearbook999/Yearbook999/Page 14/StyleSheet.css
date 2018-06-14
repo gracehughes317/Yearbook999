@@ -30,8 +30,6 @@
     width: 1000px;
     margin: auto;
     height: 500px;
-    border-style: solid;
-    border-width: 1px;
 }
 #bottomTop {
     width: 100%;
@@ -45,16 +43,16 @@
     background-image: url("page14images/bottomText.PNG");
     background-size: contain;
     background-repeat: no-repeat;
+    float: left;
     height: 300px;
-    border-style: solid;
-    border-width: 1px;
+    width: 65%;
 }
 #lastPic {
     background-image: url("page14images/IMG_0715.jpg");
     background-size: contain;
     background-repeat: no-repeat;
     height: 300px;
-    border-style: solid;
-    border-width: 1px;
+    width: 30%;
+    float: right;
 }
 
