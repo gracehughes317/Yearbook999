@@ -1,0 +1,28 @@
+﻿#top {
+    width: 800px;
+    margin: auto;
+    border-style: solid;
+    border-width: 1px;
+    height: 1000px;
+}
+#topLeft {
+    width: 49%;
+    float: left;
+    border-style: solid;
+    border-width: 1px;
+    height: 100%;
+}
+#topRight {
+    width: 49%;
+    float: right;
+    border-style: solid;
+    border-width: 1px;
+    height: 100%;
+}
+#specialText {
+    width: 100%;
+    height: 300px;
+    margin: auto;
+    align-content: center;
+
+}
